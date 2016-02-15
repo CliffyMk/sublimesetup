@@ -5,25 +5,28 @@
 	],
 	"installed_packages":
 	[
+		"AngularJS",
+		"Autoprefixer",
+		"Bootstrap 3 Snippets",
+		"ColorPicker",
+		"CSS Snippets",
+		"CSS3",
+		"D3.js Snippets",
 		"Emmet",
+		"HTML Boilerplate",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
-		"Jasmine JS",
-		"Jasmine Matchers Snippets",
-		"Jasmine Scaffold",
-		"JavaScript Console",
-		"JavaScript Patterns",
-		"JavaScript Refactor",
-		"JavaScript Snippets",
 		"JSLint",
 		"Material Color Scheme",
 		"Material Theme",
 		"Material Theme - Appbar",
 		"Material Theme - White Panels",
+		"OpenInBrowser",
 		"Package Control",
+		"Seti_UI",
 		"SideBarEnhancements",
 		"SublimeGit",
-		"Terminal",
-		"TodoReview"
+		"SublimeLinter-contrib-eslint",
+		"TernJS"
 	]
 }
